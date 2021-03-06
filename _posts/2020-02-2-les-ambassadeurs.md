@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Les Ambassadeurs, the first Restaurant we Visited in Paris"
-author: sal
+date:   2020-07-20 13:32:20 +0200
+author: mikkel
 categories: [ Lifestyle ]
 tags: [ France ]
 image: assets/images/2.jpg

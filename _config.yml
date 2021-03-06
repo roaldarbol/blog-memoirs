@@ -1,36 +1,27 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
-baseurl: /jekyll-theme-memoirs
-google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+name: "Mikkel Roald-Arbøl"
+title: "Mikkel Roald-Arbøl"
+description: "Journeying through a neuroscience PhD. Experiments, culture, lifestyle. Read, Try, Live!"
+logo: 'assets/images/brain-logo.png'
+favicon: 'assets/images/brain-logo.png'
+baseurl: ''
+#google_analytics: 'UA-xxxxxxxx-1'
+#disqus: 'demowebsite'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: mikkel_roald@hotmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
+  mikkel:
+    name: Mikkel Roald-Arbøl
+    display_name: Mikkel
+    gravatar: c0a7e316ef9b79538fbb85681c93c966
+    email: mikkel_roald@hotmail.com
+    web: https://roaldarbol.github.io/
+    twitter: https://twitter.com/roaldarbol
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
 
 # Plugins
 plugins:
